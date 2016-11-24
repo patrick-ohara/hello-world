@@ -1,2 +1,3 @@
 # hello-world
-Hello repository
+
+This is the README for hello-world.
